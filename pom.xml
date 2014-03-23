@@ -54,6 +54,7 @@
 		<module>sdif4j-testing-cdi-war</module>
 		<module>sdif4j-testing-guice</module>
 		<module>sdif4j-testing-spring</module>
+		<module>sdif4j-testing-cdi-se</module>
 	</modules>
 
 	<dependencyManagement>
